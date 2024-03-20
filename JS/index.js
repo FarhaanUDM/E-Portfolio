@@ -7,7 +7,7 @@ var typed = new Typed('.typing', {
     'Graphic Designer',
     'YouTuber',
   ],
-  typeSpeed: 100,
-  BackSpeed: 60,
+  typeSpeed: 50,
+  BackSpeed: 30,
   loop: true,
 });
